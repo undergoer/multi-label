@@ -1,1 +1,1 @@
-# multiclass-multilabel
+# multi-label
